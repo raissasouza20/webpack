@@ -1,0 +1,4 @@
+npm init -y // criar o arquivo package
+npm install// instala os pacotes
+npx webpack// cria o build do webpack
+npm install//instala os pacotes
